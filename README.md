@@ -1,6 +1,6 @@
 # Giuliana Corrêa
 **`Desenvolvedora FullStack`** <br> <br>
- Concluí o ensino médio no IFAM Campus Tefé, em 2024, com o curso técnico em informática, estou cursando Engenharia de Software no IFAM Campus Manaus. Sou apaixonada por tecnologia e acessibilidade. 
+ Concluí o ensino médio técnico em informática no IFAM Campus Tefé, em 2024, estou cursando Engenharia de Software no IFAM Campus Manaus. Sou apaixonada por tecnologia e acessibilidade. 
  ## 👩🏾‍💻 **Minhas Linguagens**
 <div style="display: inline_block"><br>
   <img align="center" alt="Giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
