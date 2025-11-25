@@ -19,7 +19,6 @@
  
  ## 🛠️  **Minhas Habilidades**  
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/FlutterFlow-0099FF?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow Badge"/>
   <img src="https://img.shields.io/badge/Web_Development-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development Badge"/>
   <img src="https://img.shields.io/badge/Mobile_Development-FFCA28?style=for-the-badge&logo=android&logoColor=black" alt="Mobile Development Badge"/>
   <img src="https://img.shields.io/badge/Responsive_Design-8BC34A?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design Badge"/>
